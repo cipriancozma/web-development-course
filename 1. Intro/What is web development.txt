@@ -1,0 +1,12 @@
+Q. What web developers do?
+Web Developers generally build websites.
+
+Q. What's happening behind the scenes when you enter www.google.com in the browser?
+There is a request -> response cycle and it takes a couple of milliseconds.
+From the browser when we type www.google.com and press enter, a HTTP request is sent to the server and ask for the data we need.
+The server processes the request and sends a response with the Google page (in this case).
+
+This is the main idea but more technically speaking in the moment when you type google.com in the address bar of your browser,
+the browser checks the cache for a DNS record to find the corresponding IP address of google.com.
+If the requested URL is not in the cache, ISP's DNS server initiates a DNS query to find the IP address of that server that hosts google.com.
+After this step when the IP address is find, the browser initiates a connection with the server.
