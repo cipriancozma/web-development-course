@@ -10,3 +10,15 @@ This is the main idea but more technically speaking in the moment when you type 
 the browser checks the cache for a DNS record to find the corresponding IP address of google.com.
 If the requested URL is not in the cache, ISP's DNS server initiates a DNS query to find the IP address of that server that hosts google.com.
 After this step when the IP address is find, the browser initiates a connection with the server.
+
+Q. The three key programming languages
+HTML -> defines the content and structure of the displayed page
+CSS -> defines styles for our websites, we control how things look like
+JavaScript -> adds interactivity to our website
+
+Q. How the web works: A deep dive
+e.g. https://udemy.com/tutorials
+https/http - is the protocol that is used to "talk" to the server, https/http is the standard used
+udemy.com - is the domain
+tutorials - path, a pointer to a specific page
+
