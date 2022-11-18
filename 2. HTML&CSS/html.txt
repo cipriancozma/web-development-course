@@ -10,3 +10,7 @@ Without this extra annotation, content has no clear meaning
 This helps the visitors of the website, the visitors that use assistive technologies (e.g. screen readers) 
 and also the search engine crawlers when the website is indexed.
 
+The anatomy of a valid HTML Document (Page)
+- Page Metadata -> head, title
+- Page Content -> body
+
