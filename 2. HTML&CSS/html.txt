@@ -1,0 +1,12 @@
+HTML is a markup language and it is used to describe our content, to add extra meaning to our content.
+
+HTML element - tell the browser which kind of content is displayed (headings, text, images, ...)
+
+The HTML elements are created using tags (e.g. div, span, h1, ...)
+
+Q. Why do we use html elements?
+In this way we can tell to the browser that something is a title, image and allows the browser to present that content correctly
+Without this extra annotation, content has no clear meaning
+This helps the visitors of the website, the visitors that use assistive technologies (e.g. screen readers) 
+and also the search engine crawlers when the website is indexed.
+
