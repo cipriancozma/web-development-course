@@ -14,3 +14,6 @@ The anatomy of a valid HTML Document (Page)
 - Page Metadata -> head, title
 - Page Content -> body
 
+Q. Why it's called Cascading Style Sheets?
+Styles for elements are taking by top to bottom.
+
