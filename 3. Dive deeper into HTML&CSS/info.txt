@@ -27,3 +27,8 @@ class -> .class
 Combinators:
 Descendants -> li p -> all p with li as ancestor
 child -> h2 > p -> only p that are direct children of h2
+
+Q. Block vs Inline elements
+Inline elements are those which only occupy the space bounded by the tags defining the element. (span, a, img, button)
+A block element occupies the entire horizontal space of its container. (p, div, h1)
+
