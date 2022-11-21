@@ -4,3 +4,5 @@ Q. Understanding Cascading, Inheritance & Specificity
 Inheritance means that selected container rules apply to descendants
 Cascading Style Sheets means multiple rules can be applied to same element
 Specificity means that more specific slector's rule wins over less specific selector
+
+Q. CSS Box Model
