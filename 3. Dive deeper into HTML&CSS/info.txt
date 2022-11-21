@@ -6,3 +6,24 @@ Cascading Style Sheets means multiple rules can be applied to same element
 Specificity means that more specific selector's rule wins over less specific selector
 
 Q. CSS Box Model
+Content -> Padding (wrapper over the content) -> border -> margin
+
+Q. HTML Layouts
+It is important to add semantic meaning to our webpage.
+Basically adding structure to a webpage helps SEO, also it is important for keeping the website maintanable.
+
+header -> <header>
+navigation bar -> <nav>
+main content -> <main> with various content subsections represented by <article>, <section>, <div> elements
+sidebar -> <aside>, often placed inside <main>
+footer -> <footer>
+
+Q. Selectors & Combinators
+type -> element name
+ID -> #id
+group selector -> element name, element name
+class -> .class
+
+Combinators:
+Descendants -> li p -> all p with li as ancestor
+child -> h2 > p -> only p that are direct children of h2
