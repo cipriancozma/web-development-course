@@ -1,0 +1,14 @@
+Q. What is Hosting or Deployment?
+Deploying a Website means to move the website code onto a remote machine (a so called "server") that serves the site to the visitors.
+
+Hosting -> the remote machine (server) hosts the website code and serves it to visitors
+
+We can use Netlify Drop host our website.
+https://app.netlify.com/drop
+
+Q. Relative vs Absolute Paths
+Relative path -> Look for files and folders relative from the source file 
+e.g. images/my-img.jpg
+
+Absolute path -> Look for the files and folders relative from the root folder
+e.g. /images/my-img.jpg
