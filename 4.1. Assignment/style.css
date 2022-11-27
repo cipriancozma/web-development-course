@@ -18,3 +18,44 @@ header img {
     height: 300px;
 }
 
+main {
+    background-color: rgb(122, 74, 218);
+    padding: 30px;
+    width: 700px;
+    margin: 10px auto; /* center main */
+    border-radius: 10px;
+    color: rgb(248, 241, 255);
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+li {
+    margin: 14px 0;
+    padding-left: 10px;
+    border-left: 4px solid transparent;
+}
+
+.extra-important {
+    border-color: yellowgreen;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: orange;
+    color: white;
+}
+
+footer {
+    text-align: center;
+}
