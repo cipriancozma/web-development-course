@@ -1,0 +1,21 @@
+Q. What is Version Management?
+A way to control and track code changes over time
+
+MacOS Terminal (z Shell):
+pwd - print working directory
+cd -  change directory
+ls - list items
+clear - clears the current view of the terminal
+mkdir - make a new directory
+touch - creates a new file (touch dummy.txt)
+rm - remove file
+rmdir - remove empty directory
+
+Windows Command Prompt (cmd):
+cd - change directory
+dir - to list 
+cls -clear window
+mkdir - make directory
+echo - create files
+rmdir - remove directory
+del - delete file
