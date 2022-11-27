@@ -19,3 +19,11 @@ mkdir - make directory
 echo - create files
 rmdir - remove directory
 del - delete file
+
+Q. Git - Initializing Repo & Creating commit
+git init - initialize a repository
+git status - info about our current git project
+git add - to add files 
+git commit -m - to add a message to our modifications
+git push - to push our commit to remote
+git log - list of commits
