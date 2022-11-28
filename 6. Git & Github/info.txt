@@ -34,3 +34,4 @@ git branch -m -> rename the branch
 git checkout -b -> create and checkout on a new branch
 git reset --hard HEAD~1 -> reset one commit back our branch
 git branch -D <filename> -> delete branch
+git clone -> to clone a remote project
