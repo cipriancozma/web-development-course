@@ -29,3 +29,8 @@ git push - to push our commit to remote
 git log - list of commits
 
 Q. Understanding Branches, Merging & Fixing Merge Conflicts
+git branch -a -> show the branches we have created
+git branch -m -> rename the branch 
+git checkout -b -> create and checkout on a new branch
+git reset --hard HEAD~1 -> reset one commit back our branch
+git branch -D <filename> -> delete branch
