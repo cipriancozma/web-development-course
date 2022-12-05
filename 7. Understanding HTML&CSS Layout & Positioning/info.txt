@@ -1,5 +1,8 @@
 Q. Flexbox
 - allows us to manage the space or the way elements move inside a box
 
+Q. Understanding Fixed & Absolute positioning
+Position fixed -> the element remains fixed when you scroll in the document
+Position absolute -> removes the element from page flow and after that you can control it.
 
 
