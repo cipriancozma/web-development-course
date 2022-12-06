@@ -1,5 +1,5 @@
 Q. Flexbox
-- allows us to manage the space or the way elements move inside a box
+- allows us to manage the space or the way elements move inside a box and define the layout in one dimension
 
 Q. Understanding Fixed & Absolute positioning
 Position fixed -> the element remains fixed when you scroll in the document
@@ -11,4 +11,9 @@ Can be solved by adding a padding to the parent.
 Q. GRID
 The GRID system means to define our layout in two dimensions, columns and rows.
 
+Q. Position
+Position absolute - takes an element out of the document flow and we can move it by simply adding top, bottom, left or right
+Position relative - is relative to its current position 
+Position fixed - takes the element out from the document flow and keeps it fixed
+Position static - is the default position
 
