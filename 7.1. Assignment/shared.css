@@ -39,3 +39,25 @@ header a {
     color: white;
     text-decoration: none;
 }
+
+footer {
+    background: linear-gradient(30deg, grey, black);
+    height: 50px;
+}
+
+footer ul {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+footer li {
+    width: 30px;
+    height: 30px;
+    padding: 10px 20px;
+}
+
+footer img {
+    width: 100%;
+    height: 100%;
+}
