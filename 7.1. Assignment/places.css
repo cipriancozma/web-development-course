@@ -4,8 +4,6 @@ header {
 }
 
 main {
-    display: flex;
-    justify-content: center;
     background: grey;
 }
 
@@ -16,8 +14,12 @@ main li img {
 }
 
 main ul {
-    width: 600px;
-    margin: 0;
+    width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2em;
+    padding: 10px;
 }
 
 main li {
@@ -45,4 +47,8 @@ main li {
 
 .actions a:hover {
     background-color: bisque;
+}
+
+li:nth-of-type(3) {
+    grid-column: 1 / 3;
 }
