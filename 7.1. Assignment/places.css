@@ -1,9 +1,48 @@
-main li img {
-    width: 200px;
-    height: 180px;
-}
-
 header {
     position: static;
     background-color: grey;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    background: grey;
+}
+
+main li img {
+    width: 40%;
+    height: auto;
+    object-fit: cover;
+}
+
+main ul {
+    width: 600px;
+    margin: 0;
+}
+
+main li {
+    display: flex;
+    border: 1px solid white;
+    border-radius: 25px;
+    background-color: white;
+    overflow: hidden;
+}
+
+.item-content {
+    padding: 20px;
+}
+
+.actions {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.actions a {
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.actions a:hover {
+    background-color: bisque;
 }
