@@ -63,7 +63,13 @@
     font-size: 1.2em;
 }
 
+#highlights {
+    padding: 10px;
+    background: linear-gradient(45deg, grey, black);
+}
+
 #highlights h2 {
     text-align: center;
+    color: white;
 }
 

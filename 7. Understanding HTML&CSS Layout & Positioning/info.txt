@@ -6,4 +6,6 @@ Position fixed -> the element remains fixed when you scroll in the document
 Position absolute -> removes the element from page flow and after that you can control it.
 
 Q. Understanding Parent - Child Margin Collapsing
+Can be solved by adding a padding to the parent.
+
 
