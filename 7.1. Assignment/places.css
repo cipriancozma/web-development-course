@@ -1,0 +1,9 @@
+main li img {
+    width: 200px;
+    height: 180px;
+}
+
+header {
+    position: static;
+    background-color: grey;
+}
